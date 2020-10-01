@@ -1,0 +1,1 @@
+1. Git is tool which helps us to pull and push the changes to repo
