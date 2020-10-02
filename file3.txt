@@ -4,4 +4,10 @@
 4. once done with the changes, you need to press (esc), followed by (:)
 then type (wq!)
 5. it will  save and close the file
-
+6. dd is for delete a line 
+7. yy is for copy and p is paste6. dd is for delete a line 
+7. yy is for copy and p is paste6. dd is for delete a line 
+7. yy is for copy and p is paste6. dd is for delete a line 
+7. yy is for copy and p is paste6. dd is for delete a line 
+7. yy is for copy and p is paste6. dd is for delete a line 
+7. yy is for copy and p is paste
