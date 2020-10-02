@@ -1,0 +1,7 @@
+1.to open /creat a file using VI
+2. we can use vi <file name>.extension eg file1.txt, image1.jpeg
+3. to edit you need to press (i)
+4. once done with the changes, you need to press (esc), followed by (:)
+then type (wq!)
+5. it will  save and close the file
+
